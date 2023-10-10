@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528556237149",
+    "project_id": "almaarchives-c3092",
+    "storage_bucket": "almaarchives-c3092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528556237149:android:71085b491e26d8d8ce88b4",
+        "android_client_info": {
+          "package_name": "com.example.almaarchives3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8YxlnbApSn3glSt6DlqVNuVoRuRNAGPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
